@@ -1,1 +1,9 @@
-# ticket-lifecycle
+<img width="853" height="527" alt="Screenshot 2025-09-03 215137" src="https://github.com/user-attachments/assets/0e3a12dd-0eab-4bc9-873d-30a42e7effd1" />
+<img width="955" height="375" alt="Screenshot 2025-09-03 215227" src="https://github.com/user-attachments/assets/5a239aec-1e59-4c77-bf97-16893f52eda9" />
+<img width="958" height="436" alt="Screenshot 2025-09-03 215834" src="https://github.com/user-attachments/assets/cf152cb4-4c18-42cd-ab31-21855c9808d3" />
+<img width="954" height="438" alt="Screenshot 2025-09-03 220253" src="https://github.com/user-attachments/assets/f0918c90-ea33-4caa-99ad-d9f9adcb1ec7" />
+<img width="946" height="539" alt="Screenshot 2025-09-03 221042" src="https://github.com/user-attachments/assets/85eeb2ec-d716-42f1-9978-6c094166188a" />
+<img width="957" height="434" alt="Screenshot 2025-09-03 222137" src="https://github.com/user-attachments/assets/d6e96f3c-9e1b-4a00-8a48-b3bb8626a456" />
+<img width="947" height="476" alt="Screenshot 2025-09-03 222612" src="https://github.com/user-attachments/assets/91e19e63-ee0a-4502-86c2-6b64a9db0922" />
+<img width="946" height="335" alt="Screenshot 2025-09-03 223419" src="https://github.com/user-attachments/assets/2e07b759-02ff-4ee2-8dc9-e1a84cfbd696" />
+<img width="950" height="448" alt="Screenshot 2025-09-03 223439" src="https://github.com/user-attachments/assets/0a6afc1a-21e9-4ee0-a299-aaa5d13602e6" />
